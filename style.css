@@ -1,0 +1,12 @@
+h1, h3{
+    text-align:center;
+    color: white;
+    background-color: #000;
+}
+p{
+    width: 40%;
+    text-align: justify;
+}
+img{
+    width: 200px;
+}
